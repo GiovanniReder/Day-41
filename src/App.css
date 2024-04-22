@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+.btn {
+  color: fuchsia;
+}
+.btn2 {
+  color: greenyellow;
+}
+.btn3 {
+  color: yellow;
+}
